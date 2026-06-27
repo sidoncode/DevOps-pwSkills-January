@@ -44,7 +44,7 @@
 | 13th-June | "Kubernetes Cluster Scaling and Infrastructure as Code Foundations" | [Link](https://miro.com/app/board/uXjVHGQacBM=/?share_link_id=655254228590) | 
 | 20th-June | "Terraform Fundamentals" | [Link](https://miro.com/app/board/uXjVHD4zIJg=/?share_link_id=942392510781) | 
 | 21th-June | "Terraform Core Usage" | [Link](https://miro.com/app/board/uXjVHDG5tSU=/?share_link_id=715028076295) | 
-
+| 27th-June | "Advanced Terraform Practices" | [Link](https://miro.com/app/board/uXjVHBVsSQ4=/?share_link_id=369502043027) | 
 
 
 
