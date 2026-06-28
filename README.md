@@ -45,6 +45,7 @@
 | 20th-June | "Terraform Fundamentals" | [Link](https://miro.com/app/board/uXjVHD4zIJg=/?share_link_id=942392510781) | 
 | 21th-June | "Terraform Core Usage" | [Link](https://miro.com/app/board/uXjVHDG5tSU=/?share_link_id=715028076295) | 
 | 27th-June | "Advanced Terraform Practices" | [Link](https://miro.com/app/board/uXjVHBVsSQ4=/?share_link_id=369502043027) | 
+| 28th-June | "Terraform for Cloud Cost Control and AWS Infrastructure Automation" | [Link](https://miro.com/app/board/uXjVHBceb40=/?share_link_id=899757427532) | 
 
 
 
