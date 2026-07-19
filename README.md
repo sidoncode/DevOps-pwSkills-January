@@ -51,6 +51,6 @@
 | 11th-July | "Logging and Log Management" | [Link](https://miro.com/app/board/uXjVH86IMTw=/?share_link_id=580223441011) | 
 | 12th-July | "Secure Observability and Logging Management" | [Link](https://miro.com/app/board/uXjVH8BcBkQ=/?share_link_id=262156050081) | 
 | 18th-July | "Cloud and Production Fundamentals" | [Link](https://miro.com/app/board/uXjVH6LToCE=/?share_link_id=407584934715) | 
-
+| 19th-July | "AWS Security and Compute Essentials" | [Link](https://miro.com/app/board/uXjVH6TcKlY=/?share_link_id=38360801404) | 
 
 
