@@ -212,11 +212,20 @@ The `aws deploy push` command zips your folder and uploads it. Keep the S3 path 
 3. **Compute platform:** **EC2/On-premises**
 4. **Create application.**
 
+Or use the CLI:
+
+```bash
+aws deploy create-app \
+  --application-name MyDemoApp
+```
+
 ---
 
 ## Step 8 — Create a deployment group
 
 A deployment group tells CodeDeploy **which instances** to deploy to and **which role** to use.
+
+**Via Console:**
 
 1. Inside `MyDemoApp` → **Create deployment group**.
 2. **Deployment group name:** `MyDemoDeploymentGroup`
@@ -229,9 +238,22 @@ A deployment group tells CodeDeploy **which instances** to deploy to and **which
 7. **Load balancer:** untick "Enable load balancing" (we don't have one).
 8. **Create deployment group.**
 
+**Or use the CLI** (replace the ARN with your `CodeDeployServiceRole` ARN):
+
+```bash
+aws deploy create-deployment-group \
+  --application-name MyDemoApp \
+  --deployment-group-name MyDemoDeploymentGroup \
+  --service-role-arn arn:aws:iam::508375325436:role/CodeDeployServiceRole \
+  --deployment-config-name CodeDeployDefault.AllAtOnce \
+  --ec2-tag-filters Key=Name,Value=codedeploy-demo,Type=KEY_AND_VALUE
+```
+
 ---
 
 ## Step 9 — Deploy! 🚀
+
+**Via Console:**
 
 1. Inside your deployment group → **Create deployment**.
 2. **Revision location:** choose **My application is stored in Amazon S3**.
@@ -241,7 +263,7 @@ A deployment group tells CodeDeploy **which instances** to deploy to and **which
 
 Watch the progress screen. Each lifecycle event (Stop → BeforeInstall → Install → Start) turns green as it succeeds. This usually takes under a minute.
 
-You can also deploy from the CLI:
+**Or use the CLI:**
 
 ```bash
 aws deploy create-deployment \
