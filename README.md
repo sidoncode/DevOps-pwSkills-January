@@ -55,5 +55,6 @@
 | 25th-July | "AWS CoreServices" | [Link](https://miro.com/app/board/uXjVH4V2_aw=/?share_link_id=179769498675) | 
 | 26th-July | "AWS CoreServices:lambda" | [Link](https://miro.com/app/board/uXjVH4dU8A8=/?share_link_id=769326048362) | 
 | 1st-Aug | "AWS Data, Monitoring, Deployment, and Infrastructure Automation Essentials" | [Link](https://miro.com/app/board/uXjVH2cps2g=/?share_link_id=896541812648) | 
+| 2nd-Aug | "AWS Messaging | services" | [Link](https://miro.com/app/board/uXjVH1k2hFM=/?share_link_id=28269521902) | 
 
 
