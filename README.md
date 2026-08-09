@@ -1,5 +1,12 @@
 # DevOps-pwSkills-January
 
+## AWS DUMPS / Exam Prep: 
+
+```
+https://1drv.ms/f/c/328151699659f444/IgDG4gZLkBqcT59PbkEzcTYgAXsehxlywrAkgdoI_yHGSLA?e=dkBTqV
+```
+
+
 ## capstone Project:
 
 ```
