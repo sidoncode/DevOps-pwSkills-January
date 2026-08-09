@@ -3,15 +3,11 @@
 ## capstone Project:
 
 ```
-</br>
 Sid repo: https://github.com/sidoncode/pwSkills-CapstoneProject
-</br>
 ```
 
 ```
-</br>
 Sneha repo: https://github.com/sneha10-v/CapstonProjectPWSkills
-</br>
 ```
 
 
