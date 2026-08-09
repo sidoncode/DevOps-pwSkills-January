@@ -68,5 +68,6 @@ Sneha repo: https://github.com/sneha10-v/CapstonProjectPWSkills
 | 1st-Aug | "AWS Data, Monitoring, Deployment, and Infrastructure Automation Essentials" | [Link](https://miro.com/app/board/uXjVH2cps2g=/?share_link_id=896541812648) | 
 | 2nd-Aug | "AWS Messaging | services" | [Link](https://miro.com/app/board/uXjVH1k2hFM=/?share_link_id=28269521902) | 
 | 08th-Aug | "AWS Container Platforms and DevOps Certification Pathways" | [Link](https://miro.com/app/board/uXjVHzr1P_Y=/?share_link_id=76048752501) | 
+| 09th-Aug | "CapStone Project" | [Link](https://miro.com/app/board/uXjVHzzrArc=/?share_link_id=786295129247) | 
 
 
